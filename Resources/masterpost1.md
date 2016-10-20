@@ -1,32 +1,18 @@
-CODING / COMPUTER SCIENCE
+# CODING / COMPUTER SCIENCE
 
-www.udemy.com
+[Udemy](www.udemy.com). The best free and paid classes on the web. This is my go to site for learning something new.
 
-The best free and paid classes on the web. This is my go to site for learning something new.
+[Pluralsight](app.pluralsight.com). $40 a month but the courses are top tier. You might find a free trial from microsoft dev essentials…
 
-app.pluralsight.com
+[MIT OpenCourseware](http://ocw.mit.edu/index.htm). Free MIT courses with video lectures, notes, and resources!!!
 
-$40 a month but the courses are top tier. You might find a free trial from microsoft dev essentials…
+[Codecademy](https://www.codecademy.com/learn). Perhaps the most famous site for learning how to code, this is must have for any aspiring computer scientist, web dev, or programmer. A smooth UI, dozens of courses, APIs, and fun quizzes if you decide to cough up a bit of money. $19 is crazy dirt cheap compared to some $200 courses out there on the web.
 
-http://ocw.mit.edu/index.htm
+[The New Boston](https://thenewboston.com/). Dubbed by its creator as the social network for programmers, TNB is a hotbed of hundreds of video tutorials for programming and computer science, as well as other disciplines like cooking.
 
-Free MIT courses with video lectures, notes, and resources!!!
+[TutorialsPoint/Coding Ground](http://www.tutorialspoint.com/codingground.htm). Another crazy important site for anyone serious about programming. You can find online terminals, IDEs, and tutorials for almost every popular language out there, from oCaml to lisp
 
-https://www.codecademy.com/learn
-
-Perhaps the most famous site for learning how to code, this is must have for any aspiring computer scientist, web dev, or programmer. A smooth UI, dozens of courses, APIs, and fun quizzes if you decide to cough up a bit of money. $19 is crazy dirt cheap compared to some $200 courses out there on the web.
-
-https://thenewboston.com/
-
-Dubbed by its creator as the social network for programmers, TNB is a hotbed of hundreds of video tutorials for programming and computer science, as well as other disciplines like cooking.
-
-http://www.tutorialspoint.com/codingground.htm
-
-Another crazy important site for anyone serious about programming. You can find online terminals, IDEs, and tutorials for almost every popular language out there, from oCaml to lisp
-
-http://codecombat.com/
-
-Geared towards children, this is a good introudction to programming thinking and helps a younger audience get into the problem solving mindset.
+[Code Combat](http://codecombat.com/). Geared towards children, this is a good introudction to programming thinking and helps a younger audience get into the problem solving mindset.
 
 http://www.codewars.com/dashboard
 

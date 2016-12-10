@@ -62,6 +62,8 @@ How To Network ([Old Site](http://howtonetwork.net/) & [New Site](https://www.ho
 
 [EdX](https://www.edx.org/). Full of courses for anything.
 
+[HackerRank](https://www.hackerrank.com/) Practice and compete in coding competitions.
+
 [[x]](http://www.exactas.org/modules/UpDownload/store_folder/1_-_COMPUTACION/Jonathan%20Bartlett%20-%20Programming%20From%20The%20Ground%20Up.pdf) Handy book on programming.
 
 # HACKING

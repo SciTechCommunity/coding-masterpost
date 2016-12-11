@@ -1,4 +1,7 @@
 # coding-masterpost
+ :![alt text][logo]
+
+[logo]: https://img.shields.io/badge/License-MIT-yellow.svg "Logo Title Text 2"
 Looking to get started in the world of Computer Science? These resources are perfect for you. 
 
 A road map will be available within 2 months giving you a custom path towards your goal. 

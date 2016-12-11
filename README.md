@@ -1,5 +1,5 @@
 # coding-masterpost
- :![alt text][logo]
+![alt text][logo]
 
 [logo]: https://img.shields.io/badge/License-MIT-yellow.svg "Logo Title Text 2"
 Looking to get started in the world of Computer Science? These resources are perfect for you. 

@@ -11,7 +11,9 @@ A road map will be available within 2 months giving you a custom path towards yo
 + Taking in contributions from other CS students
 + Highlighting very important links, such as the EDX courses offered by MIT
 
-# BEGINNER RESOURCES
+# INDEX
+### Masterposts
+[Masterpost 1](Resources/Masterposts/masterpost1.md)
 
 ### EBOOKS
 [EBooks](Resources/EBooks/ebooks.md)

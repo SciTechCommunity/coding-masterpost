@@ -11,22 +11,19 @@ A road map will be available within 2 months giving you a custom path towards yo
 + Taking in contributions from other CS students
 + Highlighting very important links, such as the EDX courses offered by MIT
 
-# BEGINNER RESOURCES
+# INDEX
+### Masterposts
+[Masterpost 1](Resources/Masterposts/masterpost1.md)
 
 ### EBOOKS
-[Free Programming Books - GitHub Repo](https://github.com/vhf/free-programming-books)
-[*Structure and Interpretation of Computer Programs* - Harold Abelson and Gerald Jay Sussman with Julie Sussman](http://web.mit.edu/alexmv/6.037/sicp.pdf)
+[EBooks](Resources/EBooks/ebooks.md)
 
 ### VIDEOS / VLOGS
-[CodingMath](https://www.youtube.com/user/codingmath) - video tutorials that teach you the math you need for programming
-[Eli The Computer Guy Live - Tech Talks](https://www.youtube.com/user/EliComputerGuyLive)
+[Videos](Resources/Videos/videos.md)
+
 
 ### TUTORIALS 
-[hackr.io](https://hackr.io/) - Get list of different tutorials based on language or topic. People vote for the tutorials they find most helpful.
-[Derek Banas - Programming, Web Dev Tutorials](https://www.youtube.com/user/derekbanas/featured)
-[Eli the Computer Guy - Tech Talks, Programming](https://www.youtube.com/user/elithecomputerguy/featured)
+[Tutorials](Resources/Tutorials/tutorials.md)
 
 ### PREMIUM SERVICES
-[Coursera Machine Learning at Stanford](https://www.coursera.org/learn/machine-learning) -  One of the most recommended courses in machine learning for beginners. Course can be taken for free, but there is a fee in order to get a certificate.
-[CS50: Introduction to Computer Science (Free Harvard Course)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-[Future Learn, Online and Digital - Free Online Courses](https://www.futurelearn.com/courses?utf8=✓&filter_category=online-and-digital&filter_availability=new-and-upcoming)
+[Premium Services](Resources/Premium_Services/premium_services.md)

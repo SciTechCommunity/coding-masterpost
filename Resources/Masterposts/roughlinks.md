@@ -29,27 +29,37 @@
 [CIO Article](http://www.cio.com/article/3113938/it-skills-training/10-tech-skills-that-will-earn-you-more-money.html) | The one thing you cannot afford if you want a job is to stay behind current tech/business news. Here is a good article to read for what skills you can learn in your free time.
 
 # RESOURCES
-https://www.cybrary.it/wp-content/uploads/pdfs/CybraryAdvancedPenSlides.pdf
-https://www.cybrary.it/wp-content/uploads/guides/Additional_Insights_Georgia.pdf
-https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-willis-c/bh-us-03-willis.pdf
-https://hashcat.net/forum/thread-1236.html
-http://proxylist.hidemyass.com/search-1308704#listable
-https://wiki.skullsecurity.org/Passwords
-http://sbisc.ut.ac.ir/wp-content/uploads/2015/10/mitnick.pdf --- not sure if legit. will remove if not
+[Penetration Test Slides](https://www.cybrary.it/wp-content/uploads/pdfs/CybraryAdvancedPenSlides.pdf) | Slides that compliment Cybrary's penetration test course by Georgia Weidman.
+[Penetration Test Insights](https://www.cybrary.it/wp-content/uploads/guides/Additional_Insights_Georgia.pdf) | More resources by Gerogia Weidman and Cybrary.
+[Blackhat presentation](https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-willis-c/bh-us-03-willis.pdf) | A pdf from a Blackhat presentation. 
+[Wordlist from hashcat](https://hashcat.net/forum/thread-1236.html) | A wordlist to download and use. 
+[Proxy list](http://proxylist.hidemyass.com/search-1308704#listable) | List of proxies for you to use.
+[Password list](https://wiki.skullsecurity.org/Passwords) | Common passwords to use in a dictionary attack.
+[Ebook on Kevin Mitnick](http://sbisc.ut.ac.ir/wp-content/uploads/2015/10/mitnick.pdf) | An ebook by Kevin Mitnick. Will remove if found to contain malware or be pirated.
 
-http://stackoverflow.com/questions/11528267/where-can-i-find-source-code-for-linux-core-commands
-https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md ---- check important resources in this
-https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki --- versions of the above one
+[Linux Commands source](http://stackoverflow.com/questions/11528267/where-can-i-find-source-code-for-linux-core-commands) | A post on stack overflow regarding source code for linux core commands.
 
-http://www.oldcomputerbooks.com/
-https://hackerone.com/
-https://www.linkedin.com/learning?trk=nav_learning
-http://oedb.org/open/ --- priority link
-https://www.infosecinstitute.com/
-https://www.workshopr.me/
-https://www.cbtnuggets.com/
-http://blg89.net/blog/wp-content/uploads/2013/11/The-Science-Of-Programming-Gries-038790641X.pdf
-https://developers.platypi.io/docs/getting-started
+[Penetration Testing Masterpost](https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md) | Hundreds of resources,  blogs, and tutorials for penetration testing.
+[Penetration Testing Bookmarks](https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki) | Contains previous versions for all of the penetration testing bookmarks. 
+
+[Computer books](http://www.oldcomputerbooks.com/) | Cheap and vintage computer books! I already bought 3 and am highly satified with them. It's a great way to get a college level text for free...just make sure you know how to translate FORTRAN into Python. 
+
+[Hackerone](https://hackerone.com/) | A bug bounty program where you can solve problems and find bugs for...you guessed it, bounty!
+
+[LinkedIn Learning](https://www.linkedin.com/learning?trk=nav_learning) | LinkedIn's premium learning tracks offer professional services.
+
+[Free college courses](http://oedb.org/open/) | A database of all free college courses!
+
+[Infosec Institute](https://www.infosecinstitute.com/) | Infosec has some articles and interesting resources.
+
+[Online workshops!](https://www.workshopr.me/) | Online workshops. Premium service.
+
+[CISCO Training](https://www.cbtnuggets.com/) | Great online training with several free videos and tutorials, but mostly premium. 
+
+[Programming PDF](http://blg89.net/blog/wp-content/uploads/2013/11/The-Science-Of-Programming-Gries-038790641X.pdf) | 
+
+[Platypi](https://developers.platypi.io/docs/getting-started) | 
+
 http://www.mcmcse.com/
 https://app.box.com/s/8nubhqtu97dvd8do81hm
 http://www.freeccnastudyguide.com/

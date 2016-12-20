@@ -1,21 +1,34 @@
-https://0x00sec.org/
-http://www.theodinproject.com/
-https://www.vikingcodeschool.com/
-https://www.sololearn.com/Courses/
-https://www.rithmschool.com/courses/javascript
-https://courses.edx.org/courses/course-v1:MITx+6.00.1x_9+2T2016/wiki/MITx.6.00.1x_9.2T2016/#online-books-tutorials-and-reading-materials
-http://www.teachyourselftocode.com/
+# CODING / COMPUTER SCIENCE
 
-http://overthewire.org/wargames/
-https://mva.microsoft.com/
-https://mva.microsoft.com/en-US/training-courses/application-vulnerability-analysis-part-1-introduction-and-tools-16761?l=K2wwQ2uyC_2406218965
-http://www.hackers-arise.com/
-https://www.safaribooksonline.com/
+[0x00sec](https://0x00sec.org/) | A forum for security, programming, and technical knowhow. 
 
-https://www.offensive-security.com/
-http://www.cio.com/article/3113938/it-skills-training/10-tech-skills-that-will-earn-you-more-money.html#slide11
+[Odin Project](http://www.theodinproject.com/) | A self paced guide to web development using ruby and other common web dev languages.  
 
-RESOURCES
+[Viking Code School](https://www.vikingcodeschool.com/) | By the creators of the Odin Project, it offers free guides on web development as well as a paid bootcamp that has a high hiring rate.
+
+# Tutorials 
+[Sololearn](https://www.sololearn.com/Courses/) | Beginner courses in Java, Python, C++, and Swift. Great for on the go learning or quickly getting introduced to the syntax of a new language.
+
+[Rithmschool](https://www.rithmschool.com/courses/javascript) | Like Viking Code School, it is a bootcamp that also has free materials for learning web development. 
+
+[MIT CS Resources](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_9+2T2016/wiki/MITx.6.00.1x_9.2T2016/#online-books-tutorials-and-reading-materials) | This link takes you to the MIT edX course resources page, which my professor used numerous times along with the Guttag textbook. It is a great free course for any student entering their first CS course and it a MUST.
+
+[Teachyourselftocode](http://www.teachyourselftocode.com/) | An awesome website that lets you find tutorials for whatever you want to learn. 
+
+[Microsoft Virtual Academy](https://mva.microsoft.com/) | Learn about Microsoft technology from professionals. 
+
+[MVA Vulnurability Course](https://mva.microsoft.com/en-US/training-courses/application-vulnerability-analysis-part-1-introduction-and-tools-16761?l=K2wwQ2uyC_2406218965) | An example MVA course. Most of them, if not all, are done by professionals and have excellent reviews. 
+
+[Hackers-arise](http://www.hackers-arise.com/) | A community of white hat hackers offering tutorials for penetration testing. Also offers their own certifications. It is a good way to prepare for other certifications too. 
+
+[Safari books](https://www.safaribooksonline.com/) | A huge library of technology ebooks for you to download. There is a free trial but why not pay to support such an important service?
+
+[Offensive-security](https://www.offensive-security.com/) | Offers penetration services, trainings, Kali Linux downloads, and a DB of exploits. This site is your first stop to stay on top of the security game.
+
+# Articles
+[CIO Article](http://www.cio.com/article/3113938/it-skills-training/10-tech-skills-that-will-earn-you-more-money.html) | The one thing you cannot afford if you want a job is to stay behind current tech/business news. Here is a good article to read for what skills you can learn in your free time.
+
+# RESOURCES
 https://www.cybrary.it/wp-content/uploads/pdfs/CybraryAdvancedPenSlides.pdf
 https://www.cybrary.it/wp-content/uploads/guides/Additional_Insights_Georgia.pdf
 https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-willis-c/bh-us-03-willis.pdf

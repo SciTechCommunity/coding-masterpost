@@ -88,6 +88,12 @@
 
 [Discrete math lecture notes standford](https://web.stanford.edu/class/cs103x/cs103x-notes.pdf) | Lecture notes for the stanford discrete math class.
 
+[Discrete math rutgers](http://www.math.rutgers.edu/~sk1233/courses/CS205-S15/) | A course in discrete math from rutgers.
+
+[Free Discrete texbook](http://www.cse.iitd.ernet.in/~bagchi/courses/discrete-book/fullbook.pdf) | Well, it is a free discrete book.
+
+[Discrete math](http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf) | The Rosen Discrete math book.
+
 [Intro to Algorithms](http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf) | PDF of algorithms. Will remove if requested.
 
 [Think tank](http://www.newthinktank.com/) | Lots of articles and videos for business, web development, etc.
@@ -114,43 +120,61 @@
 
 [Papers Against The Patriarchy](http://thisgirlcodes.tumblr.com/post/153273517442/catsandcode-the-first-pirate-website-in-the) | Pirated science papers. 
 
-https://www.djangoproject.com/
-http://studygoddess.tumblr.com/post/153759727015/do-yourself-a-favor-learn-to-code-heres-how
-http://guides.rubyonrails.org/index.html
-https://www.gatesnotes.com/
-http://www.linuxnix.com/
-http://www.python-course.eu/index.php
-https://tobi.oetiker.ch/lshort/lshort.pdf
-http://www.math.rutgers.edu/~sk1233/courses/CS205-S15/
-http://www.openculture.com/free-computer-science-textbooks
-http://www.cse.iitd.ernet.in/~bagchi/courses/discrete-book/fullbook.pdf
-https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3
-https://hackerlists.com/free-machine-learning-books/
-https://www.reddit.com/r/csbooks/
-https://adventofcode.com/
-http://yukoki.tumblr.com/
-http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf
-https://www.coursera.org/courses/?_facet_changed_=true&domains=computer-science&languages=en&primaryLanguages=en&query=free+courses
-http://www.newthinktank.com/2014/06/java-programming/
+[Django](https://www.djangoproject.com/) | The HQ for all your django web apps.
 
+[Coding post](http://studygoddess.tumblr.com/post/153759727015/do-yourself-a-favor-learn-to-code-heres-how) | A short masterpost on learning how to code.
 
-https://www.topcoder.com/getting-started/
-https://www.codeschool.com/learn/ios
-https://www.datacamp.com/
-http://www.hackerhighschool.org/
-http://www.zdnet.com/
-https://codebreaker.ltsnet.net/home
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
-http://algs4.cs.princeton.edu/home/
-http://www.freetechbooks.com/algorithms-and-data-structures-f11.html
-http://www.koding.com/
-https://codeanywhere.com/
-https://www.coursera.org/learn/introduction-to-algorithms
-http://www.devinline.com/
-http://insights.dice.com/career-toolkit/
-http://eloquentjavascript.net/
+[Ruby on rails](http://guides.rubyonrails.org/index.html) | The ruby on rails guides.
+
+[Bill Gates blog](https://www.gatesnotes.com/) | A great blog by the greatest.
+
+[Linux Tutorials](http://www.linuxnix.com/) | Awesome Linux blog!
+
+[Python Tutorials](http://www.python-course.eu/index.php) | Some tutorials and training for Python.
+
+[LaTEX](https://tobi.oetiker.ch/lshort/lshort.pdf) | Introduction to LaTEX.
+
+[Free CS textbooks!](http://www.openculture.com/free-computer-science-textbooks) | Isn't that sweet? Free CS textbooks. 
+
+[More textbooks](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3) | More textbooks.
+
+[Machine learning books](https://hackerlists.com/free-machine-learning-books/) | Free machine learning textbooks.
+
+[CS books](https://www.reddit.com/r/csbooks/) | Free CS books.
+
+[Advent of code](https://adventofcode.com/) | Code challenge that is fun.
+
+[Tumblr themes](http://yukoki.tumblr.com/) | Your HQ for editing tumblr themes.
+
+[Free Coursera Courses](https://www.coursera.org/courses/?_facet_changed_=true&domains=computer-science&languages=en&primaryLanguages=en&query=free+courses) | All the free coursera courses in computer science.
+
+[Java TUtorial](http://www.newthinktank.com/2014/06/java-programming/) | Complete with the 30 minute video and file of code to work with.
+
+[Top coder](https://www.topcoder.com/getting-started/) | Challenge site. 
+
+[Zdnet](http://www.zdnet.com/) | Popular news site for tech.
+
+[NSA Codebreake challenge](https://codebreaker.ltsnet.net/home) | Solve challenges. 
+
+[MIT Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | Neat course for algorithms. 
+
+[FREE ALGORITHM COURSE ONLINE](http://algs4.cs.princeton.edu/home/) | Contains files, chapters, and notes.
+
+[FREE TECH BOOKS](http://www.freetechbooks.com/algorithms-and-data-structures-f11.html) | That's right, free tech books.
+
+[Koding](http://www.koding.com/) | Online development envrionment. 
+
+[Codeanywhere](https://codeanywhere.com/) | Another online development environment. 
+
+[Algorithms course](https://www.coursera.org/learn/introduction-to-algorithms) | Algorithms course offered by coursera.
+
+[Full stack blog](http://www.devinline.com/) | A great full stack blog.
+
+[Career Toolkit](http://insights.dice.com/career-toolkit/) | Must have tips for finding a job.
+
+[JS ebook](http://eloquentjavascript.net/) | Online textbook for JS.
+
 https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.49xd6mf1i
-https://proto.io/?gclid=Cj0KEQiAx7XBBRCdyNOw6PLHrYABEiQAJtyEQ3c5lH-zH6g8yQQ2TgU_UkfPxGCoGTYODJDy8uy3KvMaApWo8P8HAQ
 http://htmldog.com/
 http://www.quackit.com/
 http://bayleegirl1.tumblr.com/post/56189508945

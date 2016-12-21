@@ -174,10 +174,16 @@
 
 [JS ebook](http://eloquentjavascript.net/) | Online textbook for JS.
 
-https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.49xd6mf1i
-http://htmldog.com/
-http://www.quackit.com/
-http://bayleegirl1.tumblr.com/post/56189508945
-http://www.securitytube.net/
-http://openbookproject.net/thinkcs/archive/java/english/dist_v4.0/thinkapjava.pdf
-packtpub
+[Ebooks for web devs](https://medium.mybridge.co/the-most-useful-free-ebooks-for-web-developers-3854767ee52f#.49xd6mf1i) | Ebooks. For web devs.
+
+[html dog](http://htmldog.com/) | Tutorials, techniques, and examples for learning web development.
+
+[Quackit](http://www.quackit.com/) | More web development tutorials.
+
+[Huge masterpost](http://bayleegirl1.tumblr.com/post/56189508945) | Not 100% CS but still pretty sweet.
+
+[Youtube for security](http://www.securitytube.net/) | Security videos.
+
+[Think Java](http://openbookproject.net/thinkcs/archive/java/english/dist_v4.0/thinkapjava.pdf) | Another ebook on Java.
+
+[PacktPub](https://www.packtpub.com/) | Ebooks everywhere for cheap prices.

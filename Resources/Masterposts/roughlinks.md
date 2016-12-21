@@ -76,25 +76,43 @@
 
 [Calculus ebook](http://calculus.math.rpi.edu/rsc/rsc-online.pdf) | If you gotta get math out of the way before taking a CS course, this should help you get extra practice in.
 
-http://python-forum.io/
-http://thisgirlcodes.tumblr.com/post/151946496422/book-recs-for-learning-c-from-stack-overflow
-http://interactivepython.org/runestone/static/thinkcspy/index.html
-https://www.cs.cornell.edu/~rafael/discmath.pdf
-http://web.stanford.edu/class/cs103x/
-https://web.stanford.edu/class/cs103x/cs103x-notes.pdf
-http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf
-http://www.newthinktank.com/
-https://www.dartlang.org/
-https://projects.invisionapp.com/d/main#/projects/8881054
-https://blog.kissmetrics.com/mistakes-in-app-marketing/
-https://www.entrepreneur.com/article/238849
-https://www.wayup.com/?refer=engineeredtruth
-http://progzoo.net/wiki/Python:Flags_with_Polygons_Tutorial
-http://www.math.ucsd.edu/~ronspubs/#72
-https://wiggio.com/index.html?cid=#tpl=home_0
-https://www.justinmind.com/examples
-http://thisgirlcodes.tumblr.com/post/153273517442/catsandcode-the-first-pirate-website-in-the
-https://ocw.mit.edu/courses/find-by-department/
+[Python forum](http://python-forum.io/) | Great forum for discussing Python problems.
+
+[C books](http://thisgirlcodes.tumblr.com/post/151946496422/book-recs-for-learning-c-from-stack-overflow) | List of book recommendations for learning C.
+
+[How to think like a computer scientist](http://interactivepython.org/runestone/static/thinkcspy/index.html) | An online interactive ebook for how to learn python and computer science.
+
+[Discrete math](https://www.cs.cornell.edu/~rafael/discmath.pdf) | Online ebook for Discrete math.
+
+[Discrete math from standford](http://web.stanford.edu/class/cs103x/) | Problems and homeworks for the standford discrete math class.
+
+[Discrete math lecture notes standford](https://web.stanford.edu/class/cs103x/cs103x-notes.pdf) | Lecture notes for the stanford discrete math class.
+
+[Intro to Algorithms](http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf) | PDF of algorithms. Will remove if requested.
+
+[Think tank](http://www.newthinktank.com/) | Lots of articles and videos for business, web development, etc.
+
+[Dart](https://www.dartlang.org/) | Popular programming language that is worth learning.
+
+[Invisionapp](https://www.invisionapp.com/) | App screen mockup organizer. 
+
+[Don't make these common mistakes!](https://blog.kissmetrics.com/mistakes-in-app-marketing/) | Mistakes in app marketing that developers should avoid.
+
+[More mistakes that developers make](https://www.entrepreneur.com/article/238849) | Interesting article on mistakes made by app developers. 
+
+[Wayup](https://www.wayup.com/) | Jobs and internships for college grads.
+
+[Fun with flags!](http://progzoo.net/wiki/Python:Flags_with_Polygons_Tutorial) | A quick tutorial on geometry and python.
+
+[Ron Graham Papers](http://www.math.ucsd.edu/~ronspubs/) | Papers of the famous Ron Graham. 
+
+[Team management](https://wiggio.com/index.html?cid=#tpl=home_0) | Greate site for team collaboration, project management, and setting deadlines.
+
+[Prototype development](https://www.justinmind.com/examples) | Prototype app.
+
+[Premium app development](https://proto.io/) | A premium app prototype site.
+
+[Papers Against The Patriarchy](http://thisgirlcodes.tumblr.com/post/153273517442/catsandcode-the-first-pirate-website-in-the) | Pirated science papers. 
 
 https://www.djangoproject.com/
 http://studygoddess.tumblr.com/post/153759727015/do-yourself-a-favor-learn-to-code-heres-how
@@ -138,22 +156,4 @@ http://www.quackit.com/
 http://bayleegirl1.tumblr.com/post/56189508945
 http://www.securitytube.net/
 http://openbookproject.net/thinkcs/archive/java/english/dist_v4.0/thinkapjava.pdf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+packtpub

@@ -56,19 +56,26 @@
 
 [CISCO Training](https://www.cbtnuggets.com/) | Great online training with several free videos and tutorials, but mostly premium. 
 
-[Programming PDF](http://blg89.net/blog/wp-content/uploads/2013/11/The-Science-Of-Programming-Gries-038790641X.pdf) | 
+[Programming PDF](http://blg89.net/blog/wp-content/uploads/2013/11/The-Science-Of-Programming-Gries-038790641X.pdf) | A PDF for computer science. 
 
-[Platypi](https://developers.platypi.io/docs/getting-started) | 
+[Platypi](https://developers.platypi.io/docs/getting-started) | For anyone developing using the Platypi tech.
 
-http://www.mcmcse.com/
-https://app.box.com/s/8nubhqtu97dvd8do81hm
-http://www.freeccnastudyguide.com/
-https://www.cbtnuggets.com/it-training/cisco-training#
-http://www.learncisco.net/courses/icnd-1/building-a-network/the-functions-of-networking.html
-https://learningnetwork.cisco.com/thread/15662
-http://ja-dark.tumblr.com/post/138717912857/automate-the-boring-stuff-with-python-practical
+[Certification Resources](http://www.mcmcse.com/) |  Free Practice Exams, Study Guides, Training Materials, White Papers Free eBooks, Discount Exam Vouchers, Certification Forums.
 
-http://calculus.math.rpi.edu/rsc/rsc-online.pdf
+[Downloadable pdfs for IT](https://app.box.com/s/8nubhqtu97dvd8do81hm) | Resources for studying IT.
+
+[CCNA study guide](http://www.freeccnastudyguide.com/) | Free study guides for the CCNA.
+
+[CBTNuggets training](https://www.cbtnuggets.com/it-training/cisco-training#) | The free training videos for cbtnuggets.
+
+[Learn cisco](http://www.learncisco.net/courses/icnd-1/building-a-network/the-functions-of-networking.html) | Learn how to build a network and so much more with learn cisco!
+
+[Post on free CISCO materials](https://learningnetwork.cisco.com/thread/15662) | Great post that explains what to study for the cisco exams and links free books and tutorials. 
+
+[Automate stuff with Python!](http://ja-dark.tumblr.com/post/138717912857/automate-the-boring-stuff-with-python-practical) | A pretty cool tutorial for automating stuff with Python. 
+
+[Calculus ebook](http://calculus.math.rpi.edu/rsc/rsc-online.pdf) | If you gotta get math out of the way before taking a CS course, this should help you get extra practice in.
+
 http://python-forum.io/
 http://thisgirlcodes.tumblr.com/post/151946496422/book-recs-for-learning-c-from-stack-overflow
 http://interactivepython.org/runestone/static/thinkcspy/index.html

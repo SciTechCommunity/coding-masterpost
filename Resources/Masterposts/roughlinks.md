@@ -25,8 +25,16 @@
 
 [Offensive-security](https://www.offensive-security.com/) | Offers penetration services, trainings, Kali Linux downloads, and a DB of exploits. This site is your first stop to stay on top of the security game.
 
+[Linux Tutorials](http://www.linuxnix.com/) | Awesome Linux blog!
+
+[Python Tutorials](http://www.python-course.eu/index.php) | Some tutorials and training for Python.
+
 # Articles
 [CIO Article](http://www.cio.com/article/3113938/it-skills-training/10-tech-skills-that-will-earn-you-more-money.html) | The one thing you cannot afford if you want a job is to stay behind current tech/business news. Here is a good article to read for what skills you can learn in your free time.
+
+[Python forum](http://python-forum.io/) | Great forum for discussing Python problems.
+
+[Think tank](http://www.newthinktank.com/) | Lots of articles and videos for business, web development, etc.
 
 # RESOURCES
 [Penetration Test Slides](https://www.cybrary.it/wp-content/uploads/pdfs/CybraryAdvancedPenSlides.pdf) | Slides that compliment Cybrary's penetration test course by Georgia Weidman.
@@ -58,25 +66,19 @@
 
 [Programming PDF](http://blg89.net/blog/wp-content/uploads/2013/11/The-Science-Of-Programming-Gries-038790641X.pdf) | A PDF for computer science. 
 
-[Platypi](https://developers.platypi.io/docs/getting-started) | For anyone developing using the Platypi tech.
+# Ebooks
+[Free CS textbooks!](http://www.openculture.com/free-computer-science-textbooks) | Isn't that sweet? Free CS textbooks. 
 
-[Certification Resources](http://www.mcmcse.com/) |  Free Practice Exams, Study Guides, Training Materials, White Papers Free eBooks, Discount Exam Vouchers, Certification Forums.
+[More textbooks](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3) | More textbooks.
+
+[Machine learning books](https://hackerlists.com/free-machine-learning-books/) | Free machine learning textbooks.
+
+[CS books](https://www.reddit.com/r/csbooks/) | Free CS books.
 
 [Downloadable pdfs for IT](https://app.box.com/s/8nubhqtu97dvd8do81hm) | Resources for studying IT.
 
-[CCNA study guide](http://www.freeccnastudyguide.com/) | Free study guides for the CCNA.
-
-[CBTNuggets training](https://www.cbtnuggets.com/it-training/cisco-training#) | The free training videos for cbtnuggets.
-
-[Learn cisco](http://www.learncisco.net/courses/icnd-1/building-a-network/the-functions-of-networking.html) | Learn how to build a network and so much more with learn cisco!
-
-[Post on free CISCO materials](https://learningnetwork.cisco.com/thread/15662) | Great post that explains what to study for the cisco exams and links free books and tutorials. 
-
-[Automate stuff with Python!](http://ja-dark.tumblr.com/post/138717912857/automate-the-boring-stuff-with-python-practical) | A pretty cool tutorial for automating stuff with Python. 
-
 [Calculus ebook](http://calculus.math.rpi.edu/rsc/rsc-online.pdf) | If you gotta get math out of the way before taking a CS course, this should help you get extra practice in.
 
-[Python forum](http://python-forum.io/) | Great forum for discussing Python problems.
 
 [C books](http://thisgirlcodes.tumblr.com/post/151946496422/book-recs-for-learning-c-from-stack-overflow) | List of book recommendations for learning C.
 
@@ -96,7 +98,22 @@
 
 [Intro to Algorithms](http://bayanbox.ir/view/4177858657730907268/introduction-to-algorithms-3rd-edition.pdf) | PDF of algorithms. Will remove if requested.
 
-[Think tank](http://www.newthinktank.com/) | Lots of articles and videos for business, web development, etc.
+
+[Platypi](https://developers.platypi.io/docs/getting-started) | For anyone developing using the Platypi tech.
+
+[Certification Resources](http://www.mcmcse.com/) |  Free Practice Exams, Study Guides, Training Materials, White Papers Free eBooks, Discount Exam Vouchers, Certification Forums.
+
+[CCNA study guide](http://www.freeccnastudyguide.com/) | Free study guides for the CCNA.
+
+[CBTNuggets training](https://www.cbtnuggets.com/it-training/cisco-training#) | The free training videos for cbtnuggets.
+
+[Learn cisco](http://www.learncisco.net/courses/icnd-1/building-a-network/the-functions-of-networking.html) | Learn how to build a network and so much more with learn cisco!
+
+[Post on free CISCO materials](https://learningnetwork.cisco.com/thread/15662) | Great post that explains what to study for the cisco exams and links free books and tutorials. 
+
+[Automate stuff with Python!](http://ja-dark.tumblr.com/post/138717912857/automate-the-boring-stuff-with-python-practical) | A pretty cool tutorial for automating stuff with Python. 
+
+
 
 [Dart](https://www.dartlang.org/) | Popular programming language that is worth learning.
 
@@ -128,19 +145,10 @@
 
 [Bill Gates blog](https://www.gatesnotes.com/) | A great blog by the greatest.
 
-[Linux Tutorials](http://www.linuxnix.com/) | Awesome Linux blog!
-
-[Python Tutorials](http://www.python-course.eu/index.php) | Some tutorials and training for Python.
 
 [LaTEX](https://tobi.oetiker.ch/lshort/lshort.pdf) | Introduction to LaTEX.
 
-[Free CS textbooks!](http://www.openculture.com/free-computer-science-textbooks) | Isn't that sweet? Free CS textbooks. 
 
-[More textbooks](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=3) | More textbooks.
-
-[Machine learning books](https://hackerlists.com/free-machine-learning-books/) | Free machine learning textbooks.
-
-[CS books](https://www.reddit.com/r/csbooks/) | Free CS books.
 
 [Advent of code](https://adventofcode.com/) | Code challenge that is fun.
 

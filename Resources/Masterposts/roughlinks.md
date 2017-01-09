@@ -38,16 +38,23 @@
 
 # RESOURCES
 [Penetration Test Slides](https://www.cybrary.it/wp-content/uploads/pdfs/CybraryAdvancedPenSlides.pdf) | Slides that compliment Cybrary's penetration test course by Georgia Weidman.
+
 [Penetration Test Insights](https://www.cybrary.it/wp-content/uploads/guides/Additional_Insights_Georgia.pdf) | More resources by Gerogia Weidman and Cybrary.
+
 [Blackhat presentation](https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-willis-c/bh-us-03-willis.pdf) | A pdf from a Blackhat presentation. 
+
 [Wordlist from hashcat](https://hashcat.net/forum/thread-1236.html) | A wordlist to download and use. 
+
 [Proxy list](http://proxylist.hidemyass.com/search-1308704#listable) | List of proxies for you to use.
+
 [Password list](https://wiki.skullsecurity.org/Passwords) | Common passwords to use in a dictionary attack.
+
 [Ebook on Kevin Mitnick](http://sbisc.ut.ac.ir/wp-content/uploads/2015/10/mitnick.pdf) | An ebook by Kevin Mitnick. Will remove if found to contain malware or be pirated.
 
 [Linux Commands source](http://stackoverflow.com/questions/11528267/where-can-i-find-source-code-for-linux-core-commands) | A post on stack overflow regarding source code for linux core commands.
 
 [Penetration Testing Masterpost](https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md) | Hundreds of resources,  blogs, and tutorials for penetration testing.
+
 [Penetration Testing Bookmarks](https://code.google.com/archive/p/pentest-bookmarks/wikis/BookmarksList.wiki) | Contains previous versions for all of the penetration testing bookmarks. 
 
 [Computer books](http://www.oldcomputerbooks.com/) | Cheap and vintage computer books! I already bought 3 and am highly satified with them. It's a great way to get a college level text for free...just make sure you know how to translate FORTRAN into Python. 

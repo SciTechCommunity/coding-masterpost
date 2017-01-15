@@ -70,6 +70,8 @@ How To Network ([Old Site](http://howtonetwork.net/) & [New Site](https://www.ho
 
 [GitHub](https://www.github.com) | I know this may seem redundant seeing as this "master post" is hosted on GitHub, but the link should be here incase this gets mirrors or posted on a blogging site (i.e Tumblr)!
 
+# LANGUAGES
+
 [C Documentation](http://en.cppreference.com/w/c) | Full documentation for all C headers and source code distributed with the GNU C Compiler.
 
 [C++ Documentation](http://en.cppreference.com/w/cpp) | Full documentation for all C++ headers and source code distributed with the GNU C Compiler.

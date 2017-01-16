@@ -66,9 +66,13 @@ How To Network ([Old Site](http://howtonetwork.net/) & [New Site](https://www.ho
 
 [HackerRank](https://www.hackerrank.com/) | This website is fantasic. It is full of challenges that can be completed in the language of your choice. As you complete challenges in different topics you can practice and compete in coding competitions for real world jobs!
 
+[Project Euler](https://projecteuler.net/) | A website for those who already know some programming and want to learn how math and algorithm optimizations work, it has hundreds of challenges you can solve in any programming language. Solving a challenge unlocks its forum section where you can take a look at how others have solved it.
+
 [Git Documentation](https://www.git-scm.com) | Full documentation for the git version control tool. This is the BEST resource for "how-to's" and other tutorials reguarding git, as well as full documentation for the program.
 
 [GitHub](https://www.github.com) | I know this may seem redundant seeing as this "master post" is hosted on GitHub, but the link should be here incase this gets mirrors or posted on a blogging site (i.e Tumblr)!
+
+# LANGUAGES
 
 [C Documentation](http://en.cppreference.com/w/c) | Full documentation for all C headers and source code distributed with the GNU C Compiler.
 

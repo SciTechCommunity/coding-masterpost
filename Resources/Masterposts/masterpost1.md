@@ -125,6 +125,18 @@
 
 [[x]](http://null-byte.wonderhowto.com/how-to/links-help-you-hacking-0162359/) | Small collection of resources for educating yourself on internet security.
 
+[[x]](http://www.techexams.net/forums/off-topic/51719-best-security-websites.html) | Best sites to learn from.
+
+[[x]](http://resources.infosecinstitute.com/ebooks/) | Awww yiss ebooks
+
+[[x]](http://bookboon.com/en/it-programming-ebooks) | Might run into errors downloading books.
+
+[[x]](http://ebook-dl.com/) | Full books that are virus free.
+
+[[x]](http://directory.umm.ac.id/Networking%20Manual/Networking%20For%20Dummies%207%20Ed%202004.pdf) | A must read for anyone with a desire to get into IT
+
+[[x]](http://cli.learncodethehardway.org/book/) | Crash course on Command line.
+
 [[x]](https://www.ethicalhacker.net/features/book-reviews/the-basics-of-rootkits-leave-no-trace) | The link kinda gives it away.
 
 [[x]](https://github.com/mrrrgn/simple-rootkit/blob/master/README.md) | Fun little project.
@@ -141,18 +153,6 @@
 
 [[x]](https://www.blackhat.com/presentations/bh-usa-03/bh-us-03-willis-c/bh-us-03-willis.pdf) | Nice little pdf for forensics.
 
-[[x]](http://www.techexams.net/forums/off-topic/51719-best-security-websites.html) | Best sites to learn from.
-
-[[x]](http://resources.infosecinstitute.com/ebooks/) | Awww yiss ebooks
-
-[[x]](http://bookboon.com/en/it-programming-ebooks) | Might run into errors downloading books.
-
-[[x]](http://ebook-dl.com/) | Full books that are virus free.
-
-[[x]](http://directory.umm.ac.id/Networking%20Manual/Networking%20For%20Dummies%207%20Ed%202004.pdf) | A must read for anyone with a desire to get into IT
-
-[[x]](http://cli.learncodethehardway.org/book/) | Crash course on Command line.
-
 # Linux
 
 [Debian](http://www.debian.org/) | "The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together." - [DistroWatch.com](https://distrowatch.com/table.php?distribution=debian)
@@ -167,3 +167,4 @@
 
 [openSUSE](http://www.opensuse.org/) | "The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors." - [DistroWatch.com](https://distrowatch.com/table.php?distribution=opensuse)
 
+*That’s all for now! Special thanks to everyone who suggested we make this!*

@@ -21,14 +21,14 @@ close TEXT or die "Cannot close $file: $!";
 # get keys for each line and store each line in a hash
 my @keys;
 my %linesToSort;
-my $i = -1; # Number of categories in the file (changes when a line starting with # is encountered)
+my $i = -1; # Switches between categories (increments when a line starting with # is encountered)
 my $a = 1; # in this loop: number to append to keys that are otherwise double in the hash
 
 for (0..$#lines) {
     if ($lines[$_] =~ /^\#(?:.*)/){
         $i++
     }
-    if ($lines[$_] =~ /(?:^\[)(.*?)(?:\])/){
+    elsif ($lines[$_] =~ /(?:^\[)(.*?)(?:\])/){
         my($key) = $1;
         if ($linesToSort{$key}){
             $linesToSort{"${key}$a"} = "$lines[$_]";
@@ -52,8 +52,8 @@ map {@{$_} = sort @{$_}} @keys;
 move("$file", "${file}.backup");
 
 # Print the sorted lines into the file
-$i = -1; # Number of categories (changes when a line starting with # is encountered)
-$a = 0; # In this loop: The amount of lines per categories (is set to 0 every time a # is encountered)
+$i = -1; # Switches between categories (increments when a line starting with # is encountered)
+$a = 0; # In this loop: The amount of lines per category (is set to 0 every time a # is encountered)
 
 open (NEWTEXT, "> $file") or die "Can't open $file for read: $!";
 for (0..$#lines) {
@@ -62,16 +62,14 @@ for (0..$#lines) {
         $i++;
         $a = 0;
     }
-    elsif  ($lines[$_] =~ /^\s*$/){
+    elsif  ($lines[$_] !~ /(?:^\[)(.*?)(?:\])/){
         print NEWTEXT "$lines[$_]\n"
     }
-    else {
-        if($keys[$i][$a]){
-            print NEWTEXT "$linesToSort{$keys[$i][$a]}\n";
-            print "$keys[$i][$a]\n";
-            $a++;
-        }
+    elsif($keys[$i][$a]){
+        print NEWTEXT "$linesToSort{$keys[$i][$a]}\n";
+        print "$keys[$i][$a]\n";
+        $a++;
     }
 }
 close NEWTEXT or die "Cannot close file $file: $!";
-print "-----SORTING COMPLETED-----";
+print "-----SORTING COMPLETED-----\n";

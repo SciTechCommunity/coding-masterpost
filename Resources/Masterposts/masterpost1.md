@@ -2,7 +2,7 @@
 
 [CCIE Study Guide](http://www.net130.com/ccie/tech/Sybex%20-%20Cisco%20CCIE%20Book.pdf) | CCIE book. Not sure if it’s open source. I’ll remove this link if requested.
 
-[Code Combat](http://codecombat.com/) | Geared towards children, this is a good introudction to programming thinking and helps a younger audience get into the problem solving mindset.
+[Code Combat](http://codecombat.com/) | Geared towards children, this is a good introuduction to programming thinking and helps a younger audience get into the problem solving mindset.
 
 [Codecademy](https://www.codecademy.com/learn) | Perhaps the most famous site for learning how to code, this is must have for any aspiring computer scientist, web dev, or programmer. A smooth UI, dozens of courses, APIs, and fun quizzes if you decide to cough up a bit of money. \$19 is crazy dirt cheap compared to some \$200 courses out there on the web.
 
@@ -12,7 +12,7 @@
 
 [Codeforces](https://Codeforces.com/) | Competitive programming site. Practice programming skills with thousands of problems or compete at live contests.
 
-[Codeschool](https://www.codeschool.com/) | pay money, learn to code. seems legit.
+[Codeschool](https://www.codeschool.com/) | Pay money, learn to code. seems legit.
 
 [Codewars](http://www.codewars.com/dashboard) | For users with some coding experience, codewars offers hundreds of challenges in various languages and help them build up their skills. Perfect for intermediate to master programmers.
 
@@ -36,11 +36,11 @@
 
 [Gamedev](http://www.gamedev.net/page/index.html) | Lots of forums, jobs, and helpful resources all geared towards game development.
 
-[Git Documentation](https://www.git-scm.com) | Full documentation for the git version control tool. This is the BEST resource for "how-to's" and other tutorials reguarding git, as well as full documentation for the program.
+[Git Documentation](https://www.git-scm.com) | Full documentation for the git version control tool. This is the BEST resource for "how-to's" and other tutorials regarding git, as well as full documentation for the program.
 
 [GitHub](https://www.github.com) | I know this may seem redundant seeing as this "master post" is hosted on GitHub, but the link should be here incase this gets mirrors or posted on a blogging site (i.e Tumblr)!
 
-[HackerRank](https://www.hackerrank.com/) | This website is fantasic. It is full of challenges that can be completed in the language of your choice. As you complete challenges in different topics you can practice and compete in coding competitions for real world jobs!
+[HackerRank](https://www.hackerrank.com/) | This website is fantastic. It is full of challenges that can be completed in the language of your choice. As you complete challenges in different topics you can practice and compete in coding competitions for real world jobs!
 
 [Hackforums Thread](http://hackforums.net/showthread.php?tid=626170) | Awesome intro to programming with links to projects.
 
@@ -52,7 +52,7 @@
 
 [Openhatch](https://openhatch.org/) | Has some training missions and other stuff. Helps you find projects to work on.
 
-[Pluralsight](app.pluralsight.com) | $40 a month but the courses are top tier. You might find a free trial from microsoft dev essentials…
+[Pluralsight](app.pluralsight.com) | $40 a month but the courses are top tier. You might find a free trial from Microsoft dev essentials…
 
 [Programmingforums](http://www.programmingforums.org/) | A freaking large factory of forums you will never find the same post twice.
 
@@ -109,7 +109,7 @@
 
 [Hellbound Hackers](https://www.hellboundhackers.org/) | Read the above
 
-[Null-byte (wonderhowto)](http://null-byte.wonderhowto.com/) | This is one of the BEST websites to learn about security and you can follow tutorials by real hackers and members of the IT field. With a strong community full of experienced authors, you will either flourish by using proper grammar or be mocked for asking “how do i hack gmail??”
+[Null-byte (wonderhowto)](http://null-byte.wonderhowto.com/) | This is one of the BEST websites to learn about security and you can follow tutorials by real hackers and members of the IT field. With a strong community full of experienced authors, you will either flourish by using proper grammar or be mocked for asking “how do I hack gmail??”
 
 [OverTheWire Wargames](http://overthewire.org/wargames/) | Another war games site. You get various challenges that are fun to solve ^.^
 
@@ -159,11 +159,11 @@
 
 [Debian](http://www.debian.org/) | "The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together." - [DistroWatch.com](https://distrowatch.com/table.php?distribution=debian)
 
-[Linux Kernel](https://www.kernel.org/) | The offial git repo for the Linux kernel, as well as git.
+[Linux Kernel](https://www.kernel.org/) | The official git repo for the Linux kernel, as well as git.
 
 [Linux Mint](http://linuxmint.com/) | "Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, media codecs, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories." - [DistroWatch.com](https://distrowatch.com/table.php?distribution=mint)
 
-[Ubuntu](http://www.ubuntu.com/) | "Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. " - [DistroWatch.com](https://distrowatch.com/table.php?distribution=ubuntu)
+[Ubuntu](http://www.ubuntu.com/) | "Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customize and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. " - [DistroWatch.com](https://distrowatch.com/table.php?distribution=ubuntu)
 
 [elementary](http://elementary.io/) | "elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail." - [DistroWatch.com](https://distrowatch.com/table.php?distribution=elementary)
 

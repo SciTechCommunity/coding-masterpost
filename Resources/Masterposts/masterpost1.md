@@ -10,6 +10,8 @@
 
 [Codefights](https://codefights.com/) | Put your skills to the test against AI or humans.
 
+[Codeforces](https://Codeforces.com/) | Competitive programming site. Practice programming skills with thousands of problems or compete at live contests.
+
 [Codeschool](https://www.codeschool.com/) | pay money, learn to code. seems legit.
 
 [Codewars](http://www.codewars.com/dashboard) | For users with some coding experience, codewars offers hundreds of challenges in various languages and help them build up their skills. Perfect for intermediate to master programmers.

@@ -109,7 +109,7 @@
 
 [Hellbound Hackers](https://www.hellboundhackers.org/) | Read the above
 
-[Null-byte (wonderhowto)](http://null-byte.wonderhowto.com/) | This is one of the BEST websites to learn about security and you can follow tutorials by real hackers and members of the IT field. With a strong community full of experienced authors, you will either flourish by using proper grammar or be mocked for asking “how do I hack gmail??”
+[Null-byte (wonderhowto)](http://null-byte.wonderhowto.com/) | Null-byte used to be one of the most active white hat communities on the web, but the firing of their professional writer led to many users migrating to 0x00sec. NB still has many good articles archived, but you won't find much activity or help to your questions.
 
 [OverTheWire Wargames](http://overthewire.org/wargames/) | Another war games site. You get various challenges that are fun to solve ^.^
 

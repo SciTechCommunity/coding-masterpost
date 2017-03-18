@@ -4,3 +4,5 @@
 [Free Programming Books - GitHub Repo](https://github.com/vhf/free-programming-books)
 
 [Reverse Engineering for Beginners](https://github.com/dennis714/RE-for-beginners)
+
+[Basics of Compiler Design](http://www.diku.dk/~torbenm/Basics/basics_lulu2.pdf)
